@@ -10,11 +10,11 @@
 * HTML
 * CSS
 * JavaScript
-* Git e GitHub
+* GitHub
 
 ## 📈 Objetivos
 
-Buscando evoluir constantemente e conquistar minha primeira oportunidade na área de tecnologia.
+Buscando evoluir constantemente para conquistar oportunidades na área de tecnologia.
 
 ## 📫 Contato
 
