@@ -11,7 +11,10 @@
 * CSS
 * JavaScript
 * Git e GitHub
-  
+
+📈 Objetivos
+
+Buscando evoluir constantemente e conquistar minha primeira oportunidade na área de tecnologia.
 
 ## 📫 Contato
 
