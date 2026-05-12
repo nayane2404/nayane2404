@@ -1,6 +1,6 @@
 # Olá! Eu sou a Nayane
 Estudante de Análise e Desenvolvimento de Sistemas. 
-Focada em desenvolvimento Front-end. Atualmente aprendendo HTML, CSS e JavaScript. 
+Focando em desenvolvimento Front-end. Atualmente aprendendo HTML, CSS e JavaScript. 
 Construindo projetos para evoluir minhas habilidades na programação
 
 ## Tecnologias que estou aprendendo
