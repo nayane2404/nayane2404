@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Nayane
 
-<!--
-**nayane2404/nayane2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Focada em desenvolvimento Front-end
+🚀 Atualmente aprendendo HTML, CSS e JavaScript
+📚 Construindo projetos para evoluir minhas habilidades na programação
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* Git e GitHub
+  
+
+## 📫 Contato
+
+* Email:nayane2404@gmail.com
+
